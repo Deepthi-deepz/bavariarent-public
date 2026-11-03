@@ -78,3 +78,14 @@ A publicly deployed dashboard with appropriately licensed data, rental-price pre
 ## License
 
 The application code's license will be selected separately from the rental dataset's licensing conditions.
+
+## Live Demonstration
+
+Explore the BavariaRent dashboard:
+
+https://bavariarent-public-exrqhcqdemjr6bngnwovjz.streamlit.app/
+
+The public application uses synthetic demonstration
+data. Its prices and statistics are fictional and
+must not be interpreted as real Bavarian rental
+market measurements.
